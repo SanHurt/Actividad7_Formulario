@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Actividad7_Formulario"
         mc:Ignorable="d"
-        Title="Formulario" Height="550" Width="850">
+        Title="Formulario" Height="550" Width="850"> 
     <DockPanel>
         <TextBlock DockPanel.Dock="Top" TextAlignment="Center" FontWeight="Bold" FontSize="30">Formulario</TextBlock>
         <DockPanel LastChildFill="False" DockPanel.Dock="Bottom" Margin="5">
